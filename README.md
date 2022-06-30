@@ -19,4 +19,4 @@ In order to do this, you'll need four nested `for` loops.
 
 The first two `for` loops will loop through the starting position of the subarray you want to sum.  The second two `for` loops will loop through the subarray, summing the values.
 
-To the original poster: If English is not your native language, write your question and expanation in your native language and use Google translate to translate your question and expanation into English.  You need to clearly state the problem, possible inputs, and desired outputs clearly for your question to make sense.
+To the original poster: If English is not your native language, write your question and expanation in your native language and use Google translate to translate your question and expanation into English.  You need to clearly state the problem, possible inputs, and desired outputs for your question to make sense.
