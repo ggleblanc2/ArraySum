@@ -15,3 +15,6 @@ I wish to produce the following 3 x 4 output array.
     204 205 196 194
     200 204 197 192
 
+In order to do this, you'll need four nested `for` loops.
+
+The first two for loops will loop through the starting position of the subarray you want to sum.  The second two for loops will loop through the subarray, summing the values.
